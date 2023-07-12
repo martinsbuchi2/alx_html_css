@@ -1,0 +1,47 @@
+
+
+body, main {
+    display: flex;
+    border: 1px solid black;
+}
+header {
+    display: flex;
+    text-decoration: none;
+    
+}
+
+body{
+    flex-direction: column;
+}
+
+main {
+    flex-direction: row;
+    flex: auto;
+
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+    border: 1px solid black;
+   
+
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
+p {
+    text-align: justify;
+}
+
+table {
+    border: 1px solid green;
+    
+}
+
+img {
+    width: 100%;
+}
