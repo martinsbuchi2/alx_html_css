@@ -1,3 +1,6 @@
 .row{
     display: flex;
 }
+.rwo::after{
+    float: left;
+}
