@@ -2,11 +2,11 @@
 
 ## Resources
 
-* [Your first form](https://intranet.alxswe.com/rltoken/-bidcwbmmZu-roNZVYkEYQ)
-* [How to structure a web form](https://intranet.alxswe.com/rltoken/I1Geay6u1MGXCzJOjer3yw)
-* [Basic Native form controls](https://intranet.alxswe.com/rltoken/VFoIyOpHNZcyC81HkaCwGA)
-* [The HTML5 input types](https://intranet.alxswe.com/rltoken/MPFwkQQ0dpW-Kb824b87GQ)
-* [Other form controls](https://intranet.alxswe.com/rltoken/eAfjOumjU3fpib8sOBpCIg)
+1. [Your first form](https://intranet.alxswe.com/rltoken/-bidcwbmmZu-roNZVYkEYQ)
+2. [How to structure a web form](https://intranet.alxswe.com/rltoken/I1Geay6u1MGXCzJOjer3yw)
+3. [Basic Native form controls](https://intranet.alxswe.com/rltoken/VFoIyOpHNZcyC81HkaCwGA)
+4. [The HTML5 input types](https://intranet.alxswe.com/rltoken/MPFwkQQ0dpW-Kb824b87GQ)
+5. [Other form controls](https://intranet.alxswe.com/rltoken/eAfjOumjU3fpib8sOBpCIg)
 
 ## Objectives
 
