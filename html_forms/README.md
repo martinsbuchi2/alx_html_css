@@ -1,6 +1,6 @@
 # HTML Forms
 
-# Resources
+## Resources
 
 * [Your first form](https://intranet.alxswe.com/rltoken/-bidcwbmmZu-roNZVYkEYQ)
 * [How to structure a web form](https://intranet.alxswe.com/rltoken/I1Geay6u1MGXCzJOjer3yw)
@@ -8,7 +8,7 @@
 * [The HTML5 input types](https://intranet.alxswe.com/rltoken/MPFwkQQ0dpW-Kb824b87GQ)
 * [Other form controls](https://intranet.alxswe.com/rltoken/eAfjOumjU3fpib8sOBpCIg)
 
-# Objectives
+## Objectives
 
 * What HTML forms are
 * Examples of HTML form elements and their attributes (eg: input, radio buttons, checkboxes, dropdowns, etc)
@@ -44,11 +44,14 @@ Build an HTML form for a subscription with the following criteria:
 ## Task 3 - Feedback Form with Checkboxes and File Upload
 
 Develop an HTML feedback form with checkboxes to capture user opinions and the ability to upload a file:
-* Include fields for the user’s name, email, checkboxes for various feedback options (e.g., excellent, good, average, poor), and a file upload field.* Ensure that the user can select multiple checkboxes.* Specify the file upload field using the <input type="file"> element.* Implement HTML5 validation to ensure the name, email, at least one checkbox, and a file are filled out.
+* Include fields for the user’s name, email, checkboxes for various feedback options (e.g., excellent, good, average, poor), and a file upload field.
+* Ensure that the user can select multiple checkboxes.
+* Specify the file upload field using the <input type="file"> element.
+* Implement HTML5 validation to ensure the name, email, at least one checkbox, and a file are filled out.
 
 ## Task 4 - Survey Form with Select Dropdown, Time, and Date Selection
 
-* Design an HTML survey form with a select dropdown to collect user preferences, along with time and date selection:
+Design an HTML survey form with a select dropdown to collect user preferences, along with time and date selection:
 * Include fields for the user’s name, email, a select dropdown for their favorite color (options: red, blue, green), and separate fields for time and date selection.
 * Apply HTML5 validation to ensure all fields are required, including the select dropdown, time, and date fields.
 * To implement the time and date selection, use the following input types:
