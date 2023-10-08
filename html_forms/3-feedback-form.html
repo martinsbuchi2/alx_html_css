@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- contact form -->
+    <form action="" class='form-control'>
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" required>
+        </div>
+        <div class="form-group">
+            <label for="email">Email address</label>
+            <input type="email" id="email" required>
+        </div>
+        <div class="form-group">
+            <label>feedback:</label><br>
+            <input type="checkbox" id="excellent" name="feedback" value="excellent" required>
+            <label for="excellent">Excellent</label><br>
+            <input type="checkbox" id="good" name="feedback" value="good" required>
+            <label for="good">Good</label><br>
+            <input type="checkbox" id="average" name="feedback" value="average" required>
+            <label for="average">Average</label><br>
+            <input type="checkbox" id="poor" name="feedback" value="poor" required>
+            <label for="poor">Poor</label>
+        </div>
+
+        <div class="form-group">
+            <label for="file">Upload file</label>
+            <input type="file" id="file" required>
+        </div>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>
